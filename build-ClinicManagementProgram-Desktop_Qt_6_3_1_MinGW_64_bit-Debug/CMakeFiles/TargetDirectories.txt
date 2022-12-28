@@ -1,0 +1,7 @@
+C:/Users/Adriel/Documents/GitHub/Clinic-management-program/build-ClinicManagementProgram-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/ClinicManagementProgram.dir
+C:/Users/Adriel/Documents/GitHub/Clinic-management-program/build-ClinicManagementProgram-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Adriel/Documents/GitHub/Clinic-management-program/build-ClinicManagementProgram-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Adriel/Documents/GitHub/Clinic-management-program/build-ClinicManagementProgram-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/Adriel/Documents/GitHub/Clinic-management-program/build-ClinicManagementProgram-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/Users/Adriel/Documents/GitHub/Clinic-management-program/build-ClinicManagementProgram-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/Users/Adriel/Documents/GitHub/Clinic-management-program/build-ClinicManagementProgram-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
